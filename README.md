@@ -47,8 +47,8 @@ Ver diagrama detallado en [`docs/01-topologia-red.md`](docs/01-topologia-red.md)
 | # | Práctica | Estado |
 |---|---|---|
 | 01 | Armado de la topología de red | ✅ |
-| 02 | Hardening básico del servidor | 🔜 |
-| 03 | Configuración de logging y visibilidad | 🔜 |
+| 02 | Hardening básico del servidor | ✅ |
+| 03 | Configuración de logging y visibilidad | ✅ |
 | 04 | Simulación de ataque de fuerza bruta SSH | 🔜 |
 | 05 | Detección y contención con fail2ban | 🔜 |
 
